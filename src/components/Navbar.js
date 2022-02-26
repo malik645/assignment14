@@ -9,7 +9,7 @@ const Navbar = () => {
           <div className="d-flex">
             <img src={logo} />
             <a class="navbar-brand fw-bold fs-4" href="#">
-              <span className="fst-italic fs-4">The</span>Box
+              <span className="fst-italic ">The</span>Box
             </a>
           </div>
           <button
