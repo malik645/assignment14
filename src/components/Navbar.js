@@ -8,7 +8,7 @@ const Navbar = () => {
         <div class="container ">
           <div className="d-flex">
             <img src={logo} />
-            <a class="navbar-brand fw-bold fs-4" href="#">
+            <a class="navbar-brand fw-bold fs-4 text-primary" href="#">
               <span className="fst-italic ">The</span>Box
             </a>
           </div>
